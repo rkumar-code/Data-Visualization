@@ -13,5 +13,5 @@ The survey results have been saved in a csv file and can be accessed through thi
 
 If you examine the csv file, you will find that the first column represents the data science topics and the first row represents the choices for each topic.
 
-
+The link to the jupuyter notebook is here:https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/4a9cd9b3-1cef-4936-a2c1-495fdb28f0e0/view?access_token=301b59dcadda0c231b4bdc0296ba935004cc60043fab4096f221b1bec1567db1
 
